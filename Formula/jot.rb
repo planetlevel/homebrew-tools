@@ -1,4 +1,6 @@
 class Jot < Formula
+  include Language::Python::Virtualenv
+
   desc "Java Observability Toolkit, a Java agent and a console that shows what an application does"
   homepage "https://github.com/planetlevel/jot"
   url "https://github.com/planetlevel/jot/archive/refs/tags/v1.0.0.tar.gz"
