@@ -4,7 +4,7 @@ class Jot < Formula
   desc "Java Observability Toolkit, a Java agent and a console that shows what an application does"
   homepage "https://github.com/planetlevel/jot"
   url "https://github.com/planetlevel/jot/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "86a0f90baee59ae9cb18b8a0d68400f150711a038e6b1c5c5abc69006be90ffb"
+  sha256 "111c9567e551540ba016fcce17e7e139526395289f0cd1c85d8f5eda6d4bcdb8"
   license "Apache-2.0"
 
   depends_on "maven" => :build
